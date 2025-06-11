@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Shayaan!<br>I’m a dedicated Computer Science student at FAST NUCES, deeply interested in system design, backend development, and building practical tech solutions. I enjoy working on structured, logic-driven projects and constantly seek to expand my technical toolkit.<br><br>🛠️ Skills & Projects<br>💻 R & C++ Development: Focused on AVL trees, CLI tools, and expression evaluators<br><br>🧠 System Design: Developed case studies for Smart Traffic and Smart Healthcare systems<br><br>🎮 Game Development: Created a game using COAL (Computer Organization and Assembly Language)<br><br>🌐 Web Development: Built a front-end website with HTML, CSS, and JavaScript<br><br>🔐 Backend Concepts: Implemented graph-based authentication and working on secure file systems
 
 
