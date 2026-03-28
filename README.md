@@ -1,4 +1,3 @@
-# 💫 About Me:
 <p align="center"><br>  <h1>Hi 👋, I'm Shayaan Akram</h1><br></p><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;React+Native" /><br></p>
 
 
