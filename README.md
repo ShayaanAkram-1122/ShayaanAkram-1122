@@ -21,9 +21,9 @@
 
 ## 💻 Core Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,reactnative,nodejs,express,mongodb,postgres,mysql,firebase,supabase,aws,gcp,vercel,netlify,tailwind,bootstrap,figma,git,github&perline=11" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayaanAkram-1122&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShayaanAkram-1122&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 🧰 Additional Tools & Technologies:
